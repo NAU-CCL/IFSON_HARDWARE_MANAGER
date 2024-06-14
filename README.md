@@ -2,7 +2,7 @@
 Simple hardware manager api to bridge the gap between hardware and software
 
 # hardware manifest example
-'''
+```
 hardware_manifest = [
     'picam_v2.py',
     'virtual_solar_voltage_driver.py',
@@ -12,4 +12,6 @@ hardware_manifest = [
     'raspberry_pi4_wlan_driver.py',
     'pi_cpu_temp_driver.py'
 ]
-'''
+```
+
+# Final Hardware doc is being reviewed
