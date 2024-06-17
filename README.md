@@ -1,6 +1,10 @@
 # IFSON_HARDWARE_MANAGER
 Simple hardware manager api to bridge the gap between hardware and software
 
+# Task for photrack/smartcams
+Only create `driver.py` files.
+Make sure `driver.py` files are in the correct folder and follow correct conventions.
+
 # hardware manifest example
 ```
 hardware_manifest = [
